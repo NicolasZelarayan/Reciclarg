@@ -684,7 +684,7 @@ input {
 
 
 
-.h1-botellas{
+.h1-botellas {
   align-items: center;
   text-align:center;
   color:#ffffff;
@@ -692,6 +692,14 @@ input {
 
  font-family: "Montserrat", sans-serif;
   
+}
+#botellas-shadow{
+  align-items: center;
+  text-align:center;
+  color:#ffffff;
+  text-shadow:0 3px 3px #090909;
+
+ font-family: "Montserrat", sans-serif;
 }
 .youtube{
   text-align: center;
