@@ -696,13 +696,8 @@ input {
 #botellas-shadow{
   align-items: center;
   text-align:center;
-<<<<<<< HEAD
   color:#ffffff;
   text-shadow:0 3px 3px #0c0e50;
-=======
-  color:#000000;
-  text-shadow:0 3px 3px #f6f6f6;
->>>>>>> 12d861eff6b0d363b17245efcbbb2bfda406a5ca
 
  font-family: "Montserrat", sans-serif;
 }
