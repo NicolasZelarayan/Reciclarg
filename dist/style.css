@@ -15,7 +15,7 @@ html {
 body {
   font-family: "Roboto", sans-serif;
   background-attachment: fixed;
-  background-image: url("/Imagen3.png");
+  background-image: url("Imagen3.png");
   backdrop-filter: blur(6px);
 
 
@@ -697,9 +697,16 @@ input {
   align-items: center;
   text-align:center;
   color:#ffffff;
-  text-shadow:0 3px 3px #090909;
+  text-shadow:0 3px 3px #0c0e50;
 
  font-family: "Montserrat", sans-serif;
+}
+#botellas-shadow2{
+  align-items: center;
+  text-align:center;
+  font-size:  22px;
+  color:#000000;
+  text-shadow:0 6px 6px #ffffff;
 }
 .youtube{
   text-align: center;
