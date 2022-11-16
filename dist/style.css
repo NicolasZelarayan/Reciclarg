@@ -803,6 +803,7 @@ input {
 
 .footer-right img {
   width: 150px;
+  padding:12%;
 }
 
 .footer-distributed {
@@ -864,6 +865,9 @@ background-color: white;
   position: relative;
   top: 65px;
 }
+.sanrafel-footer{
+  padding: 3%;
+}
 
 /*Cierre Footer*/
 /* Media Queries */
@@ -885,6 +889,16 @@ background-color: white;
   #iframe-map {
     background-color: red;
   }
+  .footer-right img {
+ 
+    padding:0%;
+  }
+
+  .img-sanrafael{
+    width: 100px;
+    height: auto;
+    padding:7%;
+     }
   .footer-links i {
    
   }
@@ -896,19 +910,23 @@ background-color: white;
   }
   .footer-links i {
 
-
-    
+    padding: 15px;
+        }
+    .footer-links .h3{
+    font-size: 19px;
+   
         }
 }
 @media (min-width: 1000px) {
 .footer-links i {
 
 padding: 25px;
-font-size: 23px;
+font-size: 33px;
 
     }
-
-
+.footer-links .h3{
+  font-size: 25px;
+}
 }
 .error{
   display: flex;
