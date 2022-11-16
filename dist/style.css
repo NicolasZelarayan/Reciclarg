@@ -816,6 +816,26 @@ input {
 }
 
 
+.footer-links i{
+  padding: 10px;
+  margin-top: 10px;
+  width: auto;
+  height: auto;
+  padding: 30px;
+
+
+}
+.footer-links i:hover{
+background-color: white;
+  -webkit-transition:all 0.8s ease;
+  -moz-transition:all 0.8s ease;
+  -o-transition:all 0.8s ease;
+  border-radius: 30%;
+
+ 
+  
+}
+
 
 /* Footer links */
 
