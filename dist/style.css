@@ -21,7 +21,7 @@ body {
 
 
 }
-
+ 
 /* formato universal */
 * {
   margin: 0;
@@ -871,4 +871,8 @@ input {
     width: 100%;
 
   }
+}
+.error img {
+  width: 70%;
+  height: auto;
 }
