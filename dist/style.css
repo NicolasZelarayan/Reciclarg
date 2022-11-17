@@ -892,6 +892,7 @@ background-color: white;
   .footer-right img {
  
     padding:0%;
+    width: 1022px;
   }
 
   .img-sanrafael{
@@ -902,16 +903,21 @@ background-color: white;
   .footer-links i {
    
   }
+
+
+  
 }
 @media (max-width: 700px) {
   #form {
     width: 100%;
 
   }
-  .footer-links i {
-
+  .footer-right img{
+    width: 200px ;
+    height: 100px;
     padding: 15px;
-        }
+    }
+        
     .footer-links .h3{
     font-size: 19px;
    
@@ -931,4 +937,7 @@ font-size: 33px;
 .error{
   display: flex;
   align-items: center;
+}
+.footer-right img{
+width: 200px ;
 }

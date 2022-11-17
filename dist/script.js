@@ -94,7 +94,7 @@ function getVideos(el){
   // agregar clase a las imagens
   img.setAttribute('class', 'thumb');
   // enveber los divs
-  var video = document.createElement("div");
+ 
  
   video.setAttribute("class","video_here");  
   // Insertar los tag
