@@ -934,6 +934,7 @@ font-size: 33px;
   font-size: 25px;
 }
 }
+<<<<<<< HEAD
 .error{
   display: flex;
   align-items: center;
@@ -941,3 +942,9 @@ font-size: 33px;
 .footer-right img{
 width: 200px ;
 }
+=======
+.error img{
+  max-width: 100%;
+  width: 1000px;
+}
+>>>>>>> 53d2fcc0452767bd4259c8554e2a1c23544f58a1
