@@ -690,7 +690,7 @@ input {
   color:#ffffff;
   text-shadow:0 3px 3px #0c0e50;
 
- font-family: "Montserrat", sans-serif;
+ font-family: "Roboto", sans-serif;
   
 }
 #botellas-shadow{
@@ -699,7 +699,7 @@ input {
   color:#ffffff;
   text-shadow:0 3px 3px #0c0e50;
 
- font-family: "Montserrat", sans-serif;
+ font-family: "Roboto", sans-serif;
 }
 #botellas-shadow2{
   align-items: center;
@@ -760,11 +760,12 @@ input {
   height:240px;
   padding:0;
   margin:0;
-  padding:5px;
+  padding:1px;
   background:rgba(32, 33, 36, 0.66);
   text-align:center;
   line-height:250px;
-  font-family:'Racing Sans One', cursive;
+  font-family:'Roboto' sans-serif;
+  
   color:transparent;
   -webkit-transition:all 0.8s ease;
   -moz-transition:all 0.8s ease;
@@ -777,7 +778,7 @@ input {
   width:165px;
   height:40px;
   line-height:40px;
-  background:#34495e;
+  background:#3F72AF;
   -webkit-transition:all 0.8s ease;
   -moz-transition:all 0.8s ease;
   -o-transition:all 0.8s ease;
@@ -786,15 +787,6 @@ input {
 }
 
 
-/* = Responsive comming soon :)
----------------------------------*/
-/* Desktop */
-@media (min-width:980px) {}
-/* Mobile */
-@media (max-width:480px) {}
-/* Tablet */
-@media (max-width:767px) {}
-@media (min-width:768px) and (max-width:979px) {}
 
 
 
